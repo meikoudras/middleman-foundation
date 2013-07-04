@@ -10,9 +10,4 @@ gem 'oily_png'
 
 gem "zurb-foundation"
 
-gem "susy", "~>1.0.5"
-gem "redcarpet"
-
-gem 'haml', "< 4.0"
-
-gem 'coffee-filter' # Coffeescript filter for HAML
+gem 'haml'
